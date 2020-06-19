@@ -75,11 +75,11 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'mysql669.umbler.com',
+	'username' => 'filipe_user',
+	'password' => 'F4018388?',
 	// 'database' => 'gestao_eventos',
-	'database' => 'gestao_eventos',
+	'database' => 'g_eventos',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
