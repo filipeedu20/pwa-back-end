@@ -78,6 +78,7 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
+	// 'database' => 'gestao_eventos',
 	'database' => 'gestao_eventos',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
